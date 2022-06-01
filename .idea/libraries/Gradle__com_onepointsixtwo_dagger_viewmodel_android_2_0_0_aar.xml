@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.onepointsixtwo:dagger_viewmodel_android:2.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0d918d1c56ee96750da1f981868a133e/transformed/jetified-dagger_viewmodel_android-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0d918d1c56ee96750da1f981868a133e/transformed/jetified-dagger_viewmodel_android-2.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0d918d1c56ee96750da1f981868a133e/transformed/jetified-dagger_viewmodel_android-2.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

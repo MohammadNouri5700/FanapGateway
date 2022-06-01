@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.onepointsixtwo:dagger_viewmodel:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.onepointsixtwo/dagger_viewmodel/2.0.0/75911e258777fb061181262ea3b63f996f99170a/dagger_viewmodel-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.onepointsixtwo/dagger_viewmodel/2.0.0/e72d72893bc5f6aa9e9aea880a3b36d84163ea03/dagger_viewmodel-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.onepointsixtwo/dagger_viewmodel/2.0.0/3b9a266f5b76ef1c6f5dbc4fb7ec322d9518b4f3/dagger_viewmodel-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
